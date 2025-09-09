@@ -51,6 +51,8 @@ return new class extends Migration
                 'cancelled'
             ])->default('created');
 
+            $table->string('external_order_id')->nullable()->index();
+
             $table->timestamps();
         });
 
