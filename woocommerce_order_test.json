@@ -1,0 +1,268 @@
+WooCommerce Webhook Payload: {
+    "id": 51,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "USD",
+    "version": "10.1.2",
+    "prices_include_tax": false,
+    "date_created": "2025-09-09T15:20:14",
+    "date_modified": "2025-09-09T15:23:48",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "0.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "70.00",
+    "total_tax": "0.00",
+    "customer_id": 271134203,
+    "order_key": "wc_order_RnCFGztvjlhnJ",
+    "billing": {
+        "first_name": "Khalil",
+        "last_name": "Bourouba",
+        "company": null,
+        "address_1": "Setif",
+        "address_2": null,
+        "city": "Setif",
+        "state": "WV",
+        "postcode": "19000",
+        "country": "US",
+        "email": "bouroubamohamed004@gmail.com",
+        "phone": "+213555555555"
+    },
+    "shipping": {
+        "first_name": "Khalil",
+        "last_name": "Bourouba",
+        "company": null,
+        "address_1": "Setif",
+        "address_2": null,
+        "city": "Setif",
+        "state": "WV",
+        "postcode": "19000",
+        "country": "US",
+        "phone": "+213555555555"
+    },
+    "payment_method": "woocommerce_payments",
+    "payment_method_title": "Visa credit card",
+    "transaction_id": "pi_3S5SSQFkHqJJHdYE0qRu7yOh",
+    "customer_ip_address": "105.108.21.122",
+    "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "created_via": "store-api",
+    "customer_note": null,
+    "date_completed": null,
+    "date_paid": "2025-09-09T15:23:43",
+    "cart_hash": "c555169ee887a8e5754ac2be4b23e790",
+    "number": "51",
+    "meta_data": [
+        {
+            "id": 32,
+            "key": "_shipping_hash",
+            "value": "64656d37dd2ad316b3e09febf0b4dff2"
+        },
+        {
+            "id": 33,
+            "key": "_coupons_hash",
+            "value": "d751713988987e9331980363e24189ce"
+        },
+        {
+            "id": 34,
+            "key": "_fees_hash",
+            "value": "d751713988987e9331980363e24189ce"
+        },
+        {
+            "id": 35,
+            "key": "_taxes_hash",
+            "value": "d751713988987e9331980363e24189ce"
+        },
+        {
+            "id": 36,
+            "key": "is_vat_exempt",
+            "value": "no"
+        },
+        {
+            "id": 39,
+            "key": "_wc_order_attribution_source_type",
+            "value": "typein"
+        },
+        {
+            "id": 40,
+            "key": "_wc_order_attribution_referrer",
+            "value": "https://ecom-bouroubamohamed004-cvbmo.wpcomstaging.com/wp-admin/admin.php?page=wc-admin&path=/customize-store/design-with-ai&ref=entrepreneur-signup"
+        },
+        {
+            "id": 41,
+            "key": "_wc_order_attribution_utm_source",
+            "value": "(direct)"
+        },
+        {
+            "id": 42,
+            "key": "_wc_order_attribution_session_entry",
+            "value": "https://ecom-bouroubamohamed004-cvbmo.wpcomstaging.com/?cys-hide-admin-bar=1"
+        },
+        {
+            "id": 43,
+            "key": "_wc_order_attribution_session_start_time",
+            "value": "2025-09-09 13:31:31"
+        },
+        {
+            "id": 44,
+            "key": "_wc_order_attribution_session_pages",
+            "value": "13"
+        },
+        {
+            "id": 45,
+            "key": "_wc_order_attribution_session_count",
+            "value": "2"
+        },
+        {
+            "id": 46,
+            "key": "_wc_order_attribution_user_agent",
+            "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+        },
+        {
+            "id": 47,
+            "key": "_wc_order_attribution_device_type",
+            "value": "Desktop"
+        },
+        {
+            "id": 48,
+            "key": "_payment_method_id",
+            "value": "pm_1S5SSPFkHqJJHdYEkrxEvTs3"
+        },
+        {
+            "id": 49,
+            "key": "_stripe_customer_id",
+            "value": "cus_T1VO7nPUmu2HAW"
+        },
+        {
+            "id": 50,
+            "key": "_wcpay_mode",
+            "value": "test"
+        },
+        {
+            "id": 51,
+            "key": "_intent_id",
+            "value": "pi_3S5SSQFkHqJJHdYE0qRu7yOh"
+        },
+        {
+            "id": 52,
+            "key": "_charge_id",
+            "value": "ch_3S5SSQFkHqJJHdYE0VOfdIF4"
+        },
+        {
+            "id": 53,
+            "key": "_intention_status",
+            "value": "succeeded"
+        },
+        {
+            "id": 54,
+            "key": "_wcpay_intent_currency",
+            "value": "usd"
+        },
+        {
+            "id": 55,
+            "key": "_wcpay_payment_transaction_id",
+            "value": "txn_3S5SSQFkHqJJHdYE0eXc9z5Z"
+        },
+        {
+            "id": 56,
+            "key": "_charge_risk_level",
+            "value": "normal"
+        },
+        {
+            "id": 57,
+            "key": "_wcpay_payment_method_details",
+            "value": "{\"card\":{\"amount_authorized\":7000,\"authorization_code\":\"348994\",\"brand\":\"visa\",\"checks\":{\"address_line1_check\":\"pass\",\"address_postal_code_check\":\"pass\",\"cvc_check\":\"pass\"},\"country\":\"US\",\"description\":\"Visa Classic\",\"exp_month\":12,\"exp_year\":2025,\"extended_authorization\":{\"status\":\"disabled\"},\"fingerprint\":\"0SEufZLr8JkcLcfi\",\"funding\":\"credit\",\"iin\":\"424242\",\"incremental_authorization\":{\"status\":\"unavailable\"},\"installments\":null,\"issuer\":\"Stripe Payments UK Limited\",\"last4\":\"4242\",\"mandate\":null,\"multicapture\":{\"status\":\"unavailable\"},\"network\":\"visa\",\"network_token\":{\"used\":false},\"network_transaction_id\":\"851031081031065\",\"overcapture\":{\"maximum_amount_capturable\":7000,\"status\":\"unavailable\"},\"regulated_status\":\"unregulated\",\"three_d_secure\":null,\"wallet\":null},\"type\":\"card\"}"
+        },
+        {
+            "id": 58,
+            "key": "_wcpay_transaction_fee",
+            "value": "2.33"
+        },
+        {
+            "id": 59,
+            "key": "last4",
+            "value": "4242"
+        },
+        {
+            "id": 60,
+            "key": "_card_brand",
+            "value": "visa"
+        },
+        {
+            "id": 61,
+            "key": "_wcpay_net",
+            "value": "67.67"
+        }
+    ],
+    "line_items": [
+        {
+            "id": 5,
+            "name": "Garment-dyed Super Soft Slub Cotton Hoodie in Ash",
+            "product_id": 22,
+            "variation_id": 0,
+            "quantity": 1,
+            "tax_class": null,
+            "subtotal": "70.00",
+            "subtotal_tax": "0.00",
+            "total": "70.00",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [],
+            "sku": null,
+            "global_unique_id": null,
+            "price": 70,
+            "image": {
+                "id": "32",
+                "src": "https://ecom-bouroubamohamed004-cvbmo.wpcomstaging.com/wp-content/uploads/2025/09/product-3-1.png"
+            },
+            "parent_name": null
+        }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "payment_url": "https://ecom-bouroubamohamed004-cvbmo.wpcomstaging.com/checkout/order-pay/51/?pay_for_order=true&key=wc_order_RnCFGztvjlhnJ",
+    "is_editable": false,
+    "needs_payment": false,
+    "needs_processing": true,
+    "date_created_gmt": "2025-09-09T14:20:14",
+    "date_modified_gmt": "2025-09-09T14:23:48",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2025-09-09T14:23:43",
+    "gift_cards": [],
+    "currency_symbol": "$",
+    "_links": {
+        "self": [
+            {
+                "href": "https://ecom-bouroubamohamed004-cvbmo.wpcomstaging.com/wp-json/wc/v3/orders/51",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://ecom-bouroubamohamed004-cvbmo.wpcomstaging.com/wp-json/wc/v3/orders"
+            }
+        ],
+        "email_templates": [
+            {
+                "embeddable": true,
+                "href": "https://ecom-bouroubamohamed004-cvbmo.wpcomstaging.com/wp-json/wc/v3/orders/51/actions/email_templates"
+            }
+        ],
+        "customer": [
+            {
+                "href": "https://ecom-bouroubamohamed004-cvbmo.wpcomstaging.com/wp-json/wc/v3/customers/271134203"
+            }
+        ]
+    }
+}
